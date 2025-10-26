@@ -1,0 +1,40 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.sln.docstates
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.v16.suo
+*.v17.suo
+
+# VS Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# Log files
+*.log
+
+# Crash reports
+*.crash
+
+# Other generated files
+*.pdb
+*.exp
+*.lib
+*.ilk
+*.obj
+*.res
